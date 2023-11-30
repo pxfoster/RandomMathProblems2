@@ -1,0 +1,12 @@
+Settings
+firstNumDigits=2
+secondNumDigits=1
+subtractNegNumbers=false
+addTitle=Addition
+addSymbol=+
+subtractTitle=Subtraction
+subtractSymbol=-
+multiplyTitle=Multiplication
+multiplySymbol=x
+divisionTitle=Division
+divisionSymbol=/
